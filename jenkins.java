@@ -6,6 +6,7 @@ public class jenkins {
 		
 		System.out.println("My name is Jay");
 		System.out.println("I am building this project all on my own");
+		System.out.println("Test");
 	}
 
 }
